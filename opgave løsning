@@ -1,0 +1,18 @@
+Resumé:
+
+Analog repræsenterer glidende overgange mellem forskellige tilstande, mens digital repræsenterer trinvis overgang mellem 0 og 1. 
+I det digitale system kan kun to værdier, 0 og 1, anvendes, mens analoge systemer kan have mange værdier. 
+For eksempel, når en regnbues farver skal digitaliseres, tildeles hver farve et nummer, men på grund af begrænset plads kan vi kun registrere et begrænset antal farver. 
+I det binære system, som kun bruger cifrene 0 og 1, bestemmer cifrenes placering deres værdi. En byte består af 8 bits, hvor hver bit repræsenterer en fordobling af den foregående værdi, og den maksimale værdi for en byte er 255.
+Bits kan også indikere, om et tal er lige eller ulige, eller om det er positivt eller negativt.
+
+løsning af opgaven:
+
+kl. 3 = første og andet vindue
+kl. 5 = første og tredje vindue
+kl. 10 = andet og fjerde vindue
+
+
+
+
+
